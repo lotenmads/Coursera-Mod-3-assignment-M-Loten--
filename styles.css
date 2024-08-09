@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    padding-top: 20px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-toggle {
+    margin-right: 20px;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+.col-xs-12 {
+    padding: 20px;
+    font-size: 20px;
+}
